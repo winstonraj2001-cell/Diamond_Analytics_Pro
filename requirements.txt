@@ -1,0 +1,16 @@
+# Streamlit - dashboard
+streamlit
+
+# Data processing
+pandas
+numpy
+
+# Interactive charts
+plotly
+
+# Machine learning
+scikit-learn
+xgboost
+
+# Load saved models
+joblib
